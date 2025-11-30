@@ -1,3 +1,19 @@
+# Gesim BioNote React App
+
+This is my final output for the Application Development React project.  
+It is a personal BioNote web application built with React, showcasing my:
+
+- Personal information
+- Name
+- About
+- Skills
+- Interests
+- Experience
+- Education
+- Projects
+
+The app uses React components, CSS styling, and is fully responsive.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
